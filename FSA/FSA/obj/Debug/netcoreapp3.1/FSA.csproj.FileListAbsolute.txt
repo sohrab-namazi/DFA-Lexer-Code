@@ -1,0 +1,13 @@
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\bin\Debug\netcoreapp3.1\FSA.exe
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\bin\Debug\netcoreapp3.1\FSA.deps.json
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\bin\Debug\netcoreapp3.1\FSA.runtimeconfig.json
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\bin\Debug\netcoreapp3.1\FSA.runtimeconfig.dev.json
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\bin\Debug\netcoreapp3.1\FSA.dll
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\bin\Debug\netcoreapp3.1\FSA.pdb
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\obj\Debug\netcoreapp3.1\FSA.csprojAssemblyReference.cache
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\obj\Debug\netcoreapp3.1\FSA.AssemblyInfoInputs.cache
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\obj\Debug\netcoreapp3.1\FSA.AssemblyInfo.cs
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\obj\Debug\netcoreapp3.1\FSA.csproj.CoreCompileInputs.cache
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\obj\Debug\netcoreapp3.1\FSA.dll
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\obj\Debug\netcoreapp3.1\FSA.pdb
+C:\Users\Sohrab\Desktop\Term6\Compiler\Others\FSA\FSA\obj\Debug\netcoreapp3.1\FSA.genruntimeconfig.cache
